@@ -8,6 +8,7 @@ class NaceNewApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
