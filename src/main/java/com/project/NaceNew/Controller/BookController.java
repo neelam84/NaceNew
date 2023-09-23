@@ -20,6 +20,9 @@ import com.project.NaceNew.Entity.Book;
 book controller
 */
 
+/*
+ * docs for book controller
+ */
 @RestController
 @RequestMapping("/api/books")
 public class BookController {
